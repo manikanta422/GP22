@@ -1,4 +1,4 @@
-#include "GP22.h"
+#include "GP22.h
 #include <SPI.h>
 
 volatile bool _intFlag = 0; // whether interrupt pin is LOW
